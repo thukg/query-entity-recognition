@@ -1,0 +1,2 @@
+interests__O researched__O at__O Institute__B-ORG of__I-ORG Process__I-ORG and__I-ORG Plant__I-ORG Technology__I-ORG
+J.__B-PER S.__I-PER Clark__I-PER publications__O done__O by__O Centre__B-ORG Urbain__I-ORG Nord__I-ORG B__I-ORG wrtten__O at__O 1917__O
